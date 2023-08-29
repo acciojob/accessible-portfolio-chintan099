@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.navbar{
+	 background-color:#303841;
+	height:30px;
+	width:100%;
+	color:#D8D8D8;}
+.navbar>ul{
+	display:flex;
+	text-decoration:none;
+	justify-content:space-around;
+	
+}
+nav li{
+/* 	border:2px solid red; */
+	padding-top:4px;
+	list-style:none;
+}
