@@ -4,7 +4,8 @@
 	 background-color:#303841;
 	height:30px;
 	width:100%;
-	color:#D8D8D8;}
+	color:#D8D8D8;
+}
 .navbar>ul{
 	display:flex;
 	text-decoration:none;
